@@ -1,6 +1,3 @@
-const config = {
-    token: 'Nzk3NzMzMzIzMjE1OTk0OTAw.X_qxDQ.Vxv0HZwYXb_6y7tdbVqzUDnKqJg',
-    prefix: '-'
-}
-
-module.exports = config;
+exports.Prefix = `!`;//your prefix for bot
+exports.Token = `ODA4MDAyMTc1NDI1ODM5MTQ0.YCAMqg.9ZlxFlrOwz0fvxtu5PPeX8dnvWY`;//your token 
+exports.Color = `BLUE`;//color   of embed
